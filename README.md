@@ -19,10 +19,6 @@ A simple and interactive bot that performs SEO, performance, and accessibility a
 - Requests & BeautifulSoup 📦
 - Optional: Streamlit (alternative UI)
 
---
-
-> To test it live:
-https://f986c0b02448d7b26e.gradio.live/
 
 ---
 
